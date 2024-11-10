@@ -1,0 +1,11 @@
+# Ignore catalog __Previews
+__Previews/
+
+# Ignore catalog History
+History/
+
+# Ignore file AnalogMultiplier.PrjPcbStructure
+AnalogMultiplier.PrjPcbStructure
+
+# Ignore .log files
+*.log
