@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=root.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=root.SchDoc|Designator=Input|SchDesignator=Input|FileName=InputBuffer.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=InputBuffer.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=root.SchDoc|Designator=OutputBuffer|SchDesignator=OutputBuffer|FileName=OutputBuffer.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=OutputBuffer.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=root.SchDoc|Designator=Power|SchDesignator=Power|FileName=Power.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=root.SchDoc|Designator=VCO|SchDesignator=VCO|FileName=VCO.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=VCO.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
